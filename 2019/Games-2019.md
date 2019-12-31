@@ -1,6 +1,6 @@
 # Games of the Year 2019
 
-## GOTY
+## Best
 
 1. Control
 2. Slay The Spire
